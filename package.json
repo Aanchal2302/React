@@ -1,0 +1,32 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "This is Namaste React",
+  "main": "App.js",
+  "scripts": {
+    "start":"parcel index.html",
+    "build":"parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aanchal2302/React.git"
+  },
+  "author": "Aanchal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aanchal2302/React/issues"
+  },
+  "homepage": "https://github.com/Aanchal2302/React#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browserslist":[
+    "Last 2 versions"
+  ]
+}
